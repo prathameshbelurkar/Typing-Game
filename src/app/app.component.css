@@ -1,0 +1,29 @@
+.mainbox {
+  margin-top: 5rem !important;
+}
+
+.h1title {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+.sentence {
+  margin-bottom: 1.2rem;
+}
+
+.pending {
+  color: #999;
+}
+
+.correct {
+  color: green;
+  font-weight: 600;
+}
+
+.incorrect {
+  color: red;
+  font-weight: 700;
+}
